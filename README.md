@@ -3,5 +3,5 @@
 
 主要分为以下部分：
 
-- [代码规范](https://github.com/rosefang/front-end-engineering/code-format/README.md)
+- [代码规范](https://github.com/rosefang/front-end-engineering/tree/master/code-format)
 
